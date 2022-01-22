@@ -1,0 +1,22 @@
+{
+  "name": "plajerjs-implementation",
+  "version": "1.0.0",
+  "description": "implement playerjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sidratul@github.com/sidratul/plajerjs-implementation.git"
+  },
+  "author": "Sidratul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidratul/plajerjs-implementation/issues"
+  },
+  "homepage": "https://github.com/sidratul/plajerjs-implementation#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
